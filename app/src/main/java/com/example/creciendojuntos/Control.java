@@ -168,6 +168,7 @@ public class Control {
         this.proximoControl = proximoControl;
     }
 
+    //PRUEBA BRUNO
     @Override
     public String toString() {
         return "Control{" +
