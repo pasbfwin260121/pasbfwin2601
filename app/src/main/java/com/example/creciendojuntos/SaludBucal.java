@@ -10,6 +10,7 @@ public class SaludBucal {
     private String enfermedades;
     private String observacioens;
 
+    //PRUEBA BRUNO
     public SaludBucal(int id, int edad, String nroMatricula, String caries, String perdidaDentarias, String enfermedades, String observacioens) {
         this.id = id;
         this.edad = edad;
